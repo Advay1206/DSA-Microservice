@@ -1,5 +1,7 @@
 # DSA Microservice API ⚡
 
+![Node.js CI](https://github.com/Advay1206/DSA-Microservice/actions/workflows/ci.yml/badge.svg)
+
 ## 📌 Overview
 
 A lightweight Express API that exposes classic Data Structure & Algorithm solutions as endpoints.  
