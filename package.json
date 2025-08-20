@@ -1,0 +1,28 @@
+{
+  "name": "dsa-microservice",
+  "version": "1.0.0",
+  "description": "A lightweight REST API that exposes classic DSA problems (Valid Parentheses, LRU Cache, Sorting)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advay1206/DSA-Microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advay1206/DSA-Microservice/issues"
+  },
+  "homepage": "https://github.com/Advay1206/DSA-Microservice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.4"
+  }
+}
