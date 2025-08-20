@@ -38,25 +38,8 @@ Run tests:
 
 npm test
 
-🌍 Deployment
+## 🌍 Deployment
 
-Planned deployment: Render / Replit
+- Planned deployment: Render / Replit
 
 ---
-
-## 🏃 Next Steps for You Tonight
-
-1. Clone the repo ✅ (you already did).
-2. Copy these files into place.
-3. Run:
-   ```bash
-   npm init -y
-   npm install express
-   npm install --save-dev jest supertest nodemon
-   ```
-
-Test locally:
-
-node server.js
-
-Visit http://localhost:3000
